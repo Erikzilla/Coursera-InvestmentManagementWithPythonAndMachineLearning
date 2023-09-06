@@ -1,2 +1,2 @@
 # Coursera-InvestmentManagementWithPythonAndMachineLearning
-Investment Management with Python and Machine Learning from EDHEC Business School
+Investment Management with Python and Machine Learning specialization from EDHEC Business School
